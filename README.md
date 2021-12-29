@@ -1,2 +1,2 @@
 # terraform-eks-cluster
-This repository is to create AWS EKS cluster using terraform
+This repository is to learn and create AWS EKS cluster using terraform
